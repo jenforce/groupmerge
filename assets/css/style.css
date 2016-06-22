@@ -1,0 +1,9 @@
+.card-img-top{
+/*  width: 150px;*/
+    max-width: 100%;
+}
+
+#map{
+	width:500;
+	height:380;
+}
